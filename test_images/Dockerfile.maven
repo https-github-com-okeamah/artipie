@@ -1,4 +1,4 @@
-FROM maven:3.6.3-jdk-11
+FROM maven:3.8.2-jdk-11
 ENV REV=19
 ENV DEBIAN_FRONTEND noninteractive
 RUN apt update -y -o APT::Update::Error-Mode=any && apt dist-upgrade -y
