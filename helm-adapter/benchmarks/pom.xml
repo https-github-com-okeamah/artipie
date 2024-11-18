@@ -41,7 +41,7 @@ SOFTWARE.
     <dependency>
       <artifactId>helm-adapter</artifactId>
       <groupId>com.artipie</groupId>
-      <version>1.0-SNAPSHOT</version>
+      <version>v1.0</version>
     </dependency>
     <dependency>
       <groupId>org.openjdk.jmh</groupId>
