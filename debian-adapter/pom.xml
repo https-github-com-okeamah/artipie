@@ -67,7 +67,7 @@ SOFTWARE.
     <dependency>
       <groupId>com.github.luben</groupId>
       <artifactId>zstd-jni</artifactId>
-      <version>1.5.5-4</version>
+      <version>1.5.7-4</version>
     </dependency>
     <!-- Dependency for PGP and GPG Encryption-Decryption -->
     <dependency>
