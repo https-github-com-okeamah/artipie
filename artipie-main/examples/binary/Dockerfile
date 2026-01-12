@@ -1,4 +1,4 @@
-FROM alpine:3.20.3
+FROM alpine:3.23.2
 WORKDIR /test
 RUN apk --update --no-cache add curl bash
 COPY run.sh run.sh
