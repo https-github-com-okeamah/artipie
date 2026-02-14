@@ -34,7 +34,7 @@ SOFTWARE.
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
   <properties>
-    <jmh.version>1.29</jmh.version>
+    <jmh.version>1.37</jmh.version>
     <header.license>${project.basedir}/../../LICENSE.header</header.license>
   </properties>
   <dependencies>
